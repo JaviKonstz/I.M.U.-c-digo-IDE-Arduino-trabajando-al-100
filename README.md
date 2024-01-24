@@ -1,0 +1,1 @@
+Este código lo comparto como parte de mi trabajo de tesis de maestría para que cualquier profesional o interesado en el tema del control y lectura de datos de un IMU mediante un esp32, lo pueda descargar y usar para los fines que se requieran.
